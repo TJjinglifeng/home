@@ -26,7 +26,7 @@ header {
     background-size: cover;
 }
 .logo {
-	color: #01B2D1;
+	color: #ffffff;
 	font-weight: bold;
 	text-align: undefined;
 	width: 20%;
@@ -311,7 +311,7 @@ nav ul li {
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-left: 0px;
-	color: #043745;
+	color: #ffffff;
 }
 .container header nav {
 	margin-top: 0px;
