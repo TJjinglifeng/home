@@ -121,11 +121,127 @@ ul li a {
 }
 /* Mobile */
 @media (max-width: 320px) {
-
-
+.container header nav {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	width: 100%;
+	float: none;
+	display: none;
+}
+.logo {
+	width: 100%;
+	text-align: center;
+	margin-top: 13px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.columns {
+	width: 100%;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0PX;
+	padding-right: 0PX;
+	padding-bottom: 0PX;
+	padding-left: 0PX;
+}
+.columns p {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.copyright {
+	padding-top: 25px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+header nav ul {
+}
+nav ul li {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	width: 100%;
+	text-align: center;
+}
+}
 /* Small Tablets */
 @media (min-width: 321px)and (max-width: 767px) {
-
-
+.logo {
+	width: 100%;
+	text-align: center;
+	margin-top: 13px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	color: #043745;
+}
+.container header nav {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	width: 100%;
+	float: none;
+	overflow: auto;
+	display: inline-block;
+	background: #52bad5;
+}
+header nav ul {
+	padding: 0px;
+	float: none;
+}
+nav ul li {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	width: 100%;
+	text-align: center;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+.columns {
+	width: 100%;
+	margin-top: 6px;
+	margin-right: 0px;
+	margin-bottom: 6px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.columns p {
+	padding-left: 14px;
+	padding-right: 14px;
+}
+}
 /* Small Desktops */
 @media (min-width: 768px) and (max-width: 1096px) {
+.columns {
+	width: 50%;
+	float: left;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+.container .columns p {
+	padding-left: 25px;
+	padding-right: 25px;
+}
+}
+.thumbnail {
+	width: 100px;
+	border-radius: 200px;
+	height: 100px;
+	margin-left: auto;
+}
+.thumbnail_align {
+	text-align: center;
+}
