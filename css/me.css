@@ -279,6 +279,7 @@ nav ul li {
 	padding-left: 0PX;
 }
 .columns1 p {
+	color: #000000;
 	padding-left: 10px;
 	padding-right: 10px;
 }
@@ -300,6 +301,10 @@ nav ul li {
 	width: 80%;
 }
 .container .secondary_header {
+}
+.container .columns h4 {
+	text-align: center;
+	color: #01B2D1;
 }
 }
 
