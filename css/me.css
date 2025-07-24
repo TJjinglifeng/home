@@ -583,6 +583,10 @@ nav ul li {
 	padding-left: 25px;
 	padding-right: 25px;
 }
+.container header h4 {
+	text-align: center;
+	color: #01B2D1;
+}
 }
 
 @media (min-width: 1001px) {
