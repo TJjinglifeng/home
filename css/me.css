@@ -307,6 +307,10 @@ nav ul li {
 	text-align: center;
 	color: #01B2D1;
 }
+.container header h4 {
+	text-align: center;
+	color: #01B2D1;
+}
 }
 
 @media (min-width: 321px) and (max-width: 768px) {
@@ -500,6 +504,10 @@ nav ul li {
 }
 .column_half.right_half {
 	width: 100%;
+}
+.container header h4 {
+	text-align: center;
+	color: #01B2D1;
 }
 }
 
