@@ -86,20 +86,20 @@ ul li a {
 	color: #01B2D1;
 }
 .columns1 {
-	width: 50%;
-	float: left;
-	font-family: "Source Sans Pro";
-	color: #000000;
-	line-height: 24px;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	text-align: justify;
-	margin-top: 15px;
-	margin-bottom: 15px;
-	padding-left: 0px;
-	padding-right: 0px;
-	margin-left: 0px;
-	margin-right: 0px;
+    width: 50%;
+    float: left;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #000000;
+    line-height: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: justify;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 .row .columns1 p {
 	padding-left: 10%;
